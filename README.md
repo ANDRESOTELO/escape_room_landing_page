@@ -1,1 +1,2 @@
-# escape_room_landing_page
+# The Escape Room
+Repository for the escape room project landing page
